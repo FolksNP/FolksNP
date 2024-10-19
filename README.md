@@ -1,6 +1,6 @@
 ## Hi there 👋
-### I'm Wesley Marchi. 
-### A passionate data analyst from Brazil.
+### Me chamo Felipe e sou apaixonada na computação 😄. 
+### Bora compartilhar nossas experiências?.
 
 <br />📄Veja mais sobre mim no LinkedIn: https://www.linkedin.com/in/felipe-silva-siqueira-315902222/
 
