@@ -30,13 +30,13 @@
     <img src="icons/sass.svg" alt="Sass" width="40" height="40" />
   </a> 
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img src="icons/PHP-logo.svg.png" alt="PHP" width="40" height="40" />
+    <img src="icons/PHP-logo.svg.png" alt="PHP" width="45" height="40" />
   </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="icons/figma-logo.png" alt="Figma" width="40" height="40" />
+    <img src="icons/figma-logo.png" alt="Figma" width="40" height="50" />
   </a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="icons/tail.png" alt="Tailwind" width="40" height="40" />
+    <img src="icons/tail.png" alt="Tailwind" width="50" height="40" />
   </a> 
   </a> 
     <a href="https://www.blackmagicdesign.com/br/products/davinciresolve/" target="_blank" rel="noreferrer"> 
