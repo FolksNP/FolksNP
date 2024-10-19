@@ -34,10 +34,7 @@
   </a>  
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="icons/csharp.svg" alt="C Sharp" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.embarcadero.com/" target="_blank" rel="noreferrer"> 
-    <img src="icons/delphi.webp" alt="Delphi" width="40" height="40" /> 
-  </a> 
+  </a>  
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="icons/dotnet.svg" alt="Dot Net" width="40" height="40" /> 
   </a> 
