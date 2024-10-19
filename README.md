@@ -1,8 +1,8 @@
-## Hi there 👋
-### Me chamo Felipe e sou apaixonada na computação 😄. 
+## "Todos deveriam aprender a programar um computador, pois isto ensina a pensar." - Steve Jobs
+### Me chamo Felipe e sou apaixonado na computação 💻. 
 ### Bora compartilhar nossas experiências?.
 
-<br />📄Veja mais sobre mim no LinkedIn: https://www.linkedin.com/in/felipe-silva-siqueira-315902222/
+<br />📄 Veja mais sobre mim no LinkedIn: https://www.linkedin.com/in/felipe-silva-siqueira-315902222/
 
 <div>
   <p>
@@ -26,8 +26,11 @@
 ## Languages and Tools:
 
 <p align="left"> 
-  <a href="https://www.android.com/" target="_blank" rel="noreferrer"> 
-    <img src="icons/android.svg" alt="Android" width="40" height="40" />
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+    <img src="icons/sass.svg" alt="Sass" width="40" height="40" />
+  </a> 
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+    <img src="icons/PHP-logo.svg.png" alt="PHP" width="40" height="40" />
   </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="icons/cplusplus.svg" alt="C Plus Plus" width="40" height="40" /> 
