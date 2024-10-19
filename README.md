@@ -22,13 +22,12 @@
 <br />
 <br />
 <br />
-### Programar é uma das minhas grandes paixões. Não faço isso apenas por retorno financeiro, mas pela incrível possibilidade de transformar ideias em realidade, é como se fosse magica! Basta uma ideia, um livro de código ou até um vídeo no YouTube, aprendendo e colocando em prática, posso criar o que minha imaginação permitir. Gosto de desafiar minha criatividade o tempo todo, desenvolvendo diversos projetos e sempre buscando me superar.
+<p style="font-size: 1.5em">
+Programar é uma das minhas grandes paixões. Não faço isso apenas por retorno financeiro, mas pela incrível possibilidade de transformar ideias em realidade, é como se fosse magica! Basta uma ideia, um livro de código ou até um vídeo no YouTube, aprendendo e colocando em prática, posso criar o que minha imaginação permitir. Gosto de desafiar minha criatividade o tempo todo, desenvolvendo diversos projetos e sempre buscando me superar.
+</p>
+<br />
+<br />
 
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ## Linguagens e Ferramentas:
 
