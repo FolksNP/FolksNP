@@ -33,7 +33,7 @@
     <img src="icons/PHP-logo.svg.png" alt="PHP" width="45" height="40" />
   </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="icons/figma-logo.png" alt="Figma" width="40" height="50" />
+    <img src="icons/figma-logo.png" alt="Figma" width="28" height="40" />
   </a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="icons/tail.png" alt="Tailwind" width="50" height="40" />
