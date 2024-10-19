@@ -1,6 +1,6 @@
 ## "Todos deveriam aprender a programar um computador, pois isto ensina a pensar." - Steve Jobs
-### Me chamo Felipe e sou apaixonado na computação 💻. 
-### Bora compartilhar nossas experiências?.
+### Me chamo Felipe e sou apaixonado pela computação 💻. 
+### Bora compartilhar nossas experiências?
 
 <br />📄 Veja mais sobre mim no LinkedIn: https://www.linkedin.com/in/felipe-silva-siqueira-315902222/
 
@@ -23,7 +23,7 @@
 <br />
 <br />
 
-## Languages and Tools:
+## Linguagens e Ferramentas:
 
 <p align="left"> 
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
@@ -31,6 +31,16 @@
   </a> 
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
     <img src="icons/PHP-logo.svg.png" alt="PHP" width="40" height="40" />
+  </a> 
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="icons/figma-logo.png" alt="Figma" width="40" height="40" />
+  </a> 
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="icons/tail.png" alt="Tailwind" width="40" height="40" />
+  </a> 
+  </a> 
+    <a href="https://www.blackmagicdesign.com/br/products/davinciresolve/" target="_blank" rel="noreferrer"> 
+    <img src="icons/resolve.png" alt="Davinci Resolve" width="40" height="40" />
   </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="icons/cplusplus.svg" alt="C Plus Plus" width="40" height="40" /> 
