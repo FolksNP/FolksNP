@@ -46,15 +46,9 @@ Programar é uma das minhas grandes paixões. Não faço isso apenas por retorno
     <a href="https://www.blackmagicdesign.com/br/products/davinciresolve/" target="_blank" rel="noreferrer"> 
     <img src="icons/resolve.png" alt="Davinci Resolve" width="40" height="40" />
   </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="icons/cplusplus.svg" alt="C Plus Plus" width="40" height="40" /> 
-  </a>  
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="icons/csharp.svg" alt="C Sharp" width="40" height="40" /> 
   </a>  
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="icons/dotnet.svg" alt="Dot Net" width="40" height="40" /> 
-  </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="icons/java.svg" alt="Java" width="40" height="40" /> 
   </a> 
@@ -72,12 +66,6 @@ Programar é uma das minhas grandes paixões. Não faço isso apenas por retorno
   </a> 
   <a href="https://code.visualstudio.com/brand" target="_blank" rel="noreferrer"> 
     <img src="icons/vscode.png" alt="VSCode" width="40" height="40" /> 
-  </a> 
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-    <img src="icons/jupyter.png" alt="Jupyter" width="40" height="45" /> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="icons/nodejs.png" alt="nodejs" width="40" height="40" /> 
   </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="icons/postgresql.png" alt="PostgreSQL" width="40" height="40" /> 
