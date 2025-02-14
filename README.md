@@ -45,10 +45,7 @@ Programar é uma das minhas grandes paixões. Não faço isso apenas por retorno
   </a> 
     <a href="https://www.blackmagicdesign.com/br/products/davinciresolve/" target="_blank" rel="noreferrer"> 
     <img src="icons/resolve.png" alt="Davinci Resolve" width="40" height="40" />
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="icons/csharp.svg" alt="C Sharp" width="40" height="40" /> 
-  </a>  
+  </a>   
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="icons/java.svg" alt="Java" width="40" height="40" /> 
   </a> 
