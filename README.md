@@ -4,23 +4,7 @@
 
 <br />📄 Veja mais sobre mim no LinkedIn: https://www.linkedin.com/in/felipe-silva-siqueira-315902222/
 
-<div>
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=FolksNP&show_icons=true&locale=en" alt="FolksNP" />
-  </p>
-  <p>
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FolksNP&show_icons=true&locale=en&layout=compact" alt="FolksNP" />
-  </p><br />
-</div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
 <h4>
 Programar é uma das minhas grandes paixões. Não faço isso apenas por retorno financeiro, mas pela incrível possibilidade de transformar ideias em realidade, é como se fosse magica! Basta uma ideia, um livro de código ou até um vídeo no YouTube, aprendendo e colocando em prática, posso criar o que minha imaginação permitir. Gosto de desafiar minha criatividade o tempo todo, desenvolvendo diversos projetos e sempre buscando me superar.
 </h4>
@@ -69,6 +53,16 @@ Programar é uma das minhas grandes paixões. Não faço isso apenas por retorno
   </a> 
 
 </p>
+<br/>
+
+<div>
+    <p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=FolksNP&show_icons=true&locale=en" alt="FolksNP" />
+</p>
+  <p>
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FolksNP&show_icons=true&locale=en&layout=compact" alt="FolksNP" />
+  </p>
+</div>
 
 <!--
 **wesleymarchi/wesleymarchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
